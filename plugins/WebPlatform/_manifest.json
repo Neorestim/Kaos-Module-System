@@ -1,0 +1,10 @@
+{
+  "pluginName": "WebPlatform",
+  "version": "1.0.0",
+  "Developer": "Kaos Team",
+  "description": "Web管理界面插件",
+  "entryPoint": "plugin.py",
+  "dependencies": [],
+  "Permission": "System",
+  "InstallationLevel": "Admin"
+}
